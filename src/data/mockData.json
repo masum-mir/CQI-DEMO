@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "usr-admin-001",
-      "name": "CQI Administrator",
+      "name": "Administrator",
       "email": "admin@cqi.local",
       "password": "12345678",
       "role": "admin",
@@ -19,7 +19,7 @@
     },
     {
       "id": "usr-chair-001",
-      "name": "Dr. Nusrat Jahan",
+      "name": "Dr. Maheen Islam",
       "email": "chairperson@cqi.local",
       "password": "12345678",
       "role": "chairperson",
@@ -36,7 +36,7 @@
     },
     {
       "id": "usr-faculty-001",
-      "name": "Md Masum",
+      "name": "Rashedul Amin Tuhin",
       "email": "faculty@cqi.local",
       "password": "12345678",
       "role": "faculty",
